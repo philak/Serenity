@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Create students data driven test","DataDriven Test for adding multiple students to the Student App.","FAILURE","2018-08-19T00:30:12.999+01:00","0.0","83.18"
+"First serenity test","Get all students","FAILURE","2018-08-19T00:30:20.207+01:00","0.0","0.14"
+"First serenity test","This isa failing","FAILURE","2018-08-19T00:30:19.784+01:00","0.0","0.18"
+"First serenity test","This test will get the information of all the students from the Student App","FAILURE","2018-08-19T00:30:17.930+01:00","0.0","1.45"
